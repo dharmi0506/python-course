@@ -16,7 +16,7 @@ print("Gadget:", gadget, "-> type:", type(gadget)) #gadget:TV-> type: <cls str>
 print("Agent Number:", agent_number, "-> type:", type(agent_number)) #Agent number:7-> <cls int>
 print("Speed Rating:", speed_rating, "-> type:", type(speed_rating)) #Speed Rating:9.5-> <cls float>
 print("Mission Count:", mission_count, "-> type:", type(mission_count)) #Mission Count:12-> <cls int>
-print("Height (m):", height_m, "-> type:", type(height_m)) #Height m:1.65-> <cls int>
+print("Height (m):", height_m, "-> type:", type(height_m)) #Height m:1.65-> <cls float>
 print("Is Active:", is_active, "-> type:", type(is_active)) # Is active:true-> <boolean>
 
 # PART 4: Typecast the numbers and true/false value into text
