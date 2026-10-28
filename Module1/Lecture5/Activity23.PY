@@ -1,11 +1,27 @@
-#input a word
-text = str(input("Enter a string: "))
+# Assigning Different Variables
+name = "Dharmi"
+age = 11
+is_girl = True
+hieght:5:3in
 
-# Reverse String 
-# using step value as -2 to iterate in reverse
-revText = text[::-2] 
-text = revText
+# Printing Different Variables and their Data Type
+print("Name :", name)
+print("Data Type of Name is", type(name))
 
-print("Reverse of Given String is:") #imrahd
-print(text)
+print("Age :", age)
+print("Data Type of Age is", type(age))
 
+print("is_girl :", is_girl)
+print("Data Type of is_student is", type(is_))
+
+print("Weight :", )
+print("Data Type of weight is", type(weight))
+
+# Type casting to convert the datatype of variables
+print("\n After Type Casting....")
+age = str(age)
+print(age)
+print("Data Type of age is", type(age))
+weight = int(weight)
+print(weight)
+print("Data Type of Weight is", type(weight))
