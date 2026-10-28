@@ -1,4 +1,3 @@
-num = input("enter your number here:" )
-print (2**(1/2)) 
-
-num = float(input("enter a number, : "))
+num = int(input("Enter a number:\n "))
+result = num ** 0.5
+print("The square root is:", result)
